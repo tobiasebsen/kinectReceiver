@@ -1,0 +1,6 @@
+ofxAsio
+ofxDepth
+ofxGui
+ofxMSAOpenCL
+ofxSquash
+ofxSquashBuddies
